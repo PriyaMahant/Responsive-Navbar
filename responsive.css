@@ -1,0 +1,19 @@
+@media only screen and (max-width:800px) {
+   span{
+    display: block;
+   
+   }
+
+  .menu-right ul li{
+    display: block;
+  }
+
+ .nav-bar{
+  height: auto;
+ }
+
+ul{
+  display: none;
+}
+
+}
